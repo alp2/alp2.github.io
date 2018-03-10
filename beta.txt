@@ -2138,7 +2138,7 @@ return true;
 </head>
 <body>
 <div class="outtable">
-<div class="topbg">&nbsp;<a href="?s=logout" title="退出">&#8857;</a>&nbsp;&#8857;&nbsp;<a href="?s=ch" target="main" title="更改密码">&#8857;</a>&nbsp;{$Server_IP} - {$Server_OS} - {$Server_Soft}</div>
+<div class="topbg">&nbsp;<a href="?s=logout" title="退出">&#8857;退出</a>&nbsp;&#8857;&nbsp;<a href="?s=ch" target="main" title="更改密码">&#8857;更改密码</a>&nbsp;{$Server_IP} - {$Server_OS} - {$Server_Soft}</div>
 	<div style="height:546px;">
 		<table width="100%" height="100%" border=0 cellpadding="0" cellspacing="0">
 		<tr><td width="140" align="center" valign="top">
